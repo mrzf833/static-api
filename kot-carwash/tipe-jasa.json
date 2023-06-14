@@ -1,0 +1,27 @@
+[
+	{
+		"nama": "Cuci Mobil Manual",
+		"biaya": 30000,
+		"totalBiaya": "30.000"
+	},
+	{
+		"nama": "Cuci Mobil Waterless",
+		"biaya": 50000,
+		"totalBiaya": "50.000"
+	},
+	{
+		"nama": "Cuci Mobil Touchless",
+		"biaya": 50000,
+		"totalBiaya": "50.000"
+	},
+	{
+		"nama": "Cuci Mobil Robotic",
+		"biaya": 80000,
+		"totalBiaya": "80.000"
+	},
+	{
+		"nama": "Cuci Mobil Hidrolik",
+		"biaya": 30000,
+		"totalBiaya": "30.000"
+	},
+]
